@@ -1,0 +1,34 @@
+body{
+    background-image: url('https://images.pexels.com/photos/3816195/pexels-photo-3816195.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260') ;
+    background-repeat: no-repeat;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   background-position: center;
+}
+
+.form-body{
+   background-color: rgba(0,0,0,0.5);
+   opacity: 1;
+   color:white;
+   width:50%;
+   margin: auto;
+   margin-top: 30px;
+   padding: 40px;
+   border-radius: 10px;
+   box-shadow: 0 8px 6px -6px black;
+}
+.note{
+   color:red;
+}
+.file-form{
+   background-color: 	black;
+   opacity: 0.5;
+   color:white;
+   margin: auto;
+   padding:50px;
+   width:40%;
+   height: 40%;
+   margin-top: 10%;
+}
